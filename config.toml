@@ -1,0 +1,17 @@
+rpc_endpoint = 'https://polygon-mainnet.infura.io/v3/39ca066ea4ce49d7b820180f98f6c1f7'
+threshold = 10
+
+[signature]
+dao_wallet1 = '0xd44CDe0f3BeEF47Af166fC763b52977A43bf8Fe7'
+dao_wallet2 = '0xa1c24757Da070E62b12bf2c762213c35FA30Fae5'
+dao_wallet3 = '0x74D5Ef1C805EA2D42ee3163fA312c9e156635C68'
+
+[email]
+account = ''
+password = ''
+host = 'smtp.office365.com'
+port = '587'
+
+[email_receiver]
+user1 = ''
+user2 = ''
